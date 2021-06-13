@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amaroo77
-- 👀 I’m interested in developing machine learning
+- 👀 I’m interested in developing artificial intelligence
 - 🌱 I’m currently learning Malaysia Highschool: SBPI TEMERLOH
 - 💞️ I’m looking to collaborate on beginner project 
 - 📫 How to reach me? You can find me on telegram @PainlessBiology
