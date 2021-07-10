@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amaroo77
-- 👀 I’m interested in developing artificial intelligence
-- 🌱 I’m currently learning Malaysia Highschool: SBPI TEMERLOH
-- 💞️ I’m looking to collaborate on beginner project 
-- 📫 How to reach me? You can find me on telegram @PainlessBiology
+- 👋 Hi,
+- 👀 I’m 
+- 🌱 I’m 
+- 💞️ I’m  
+- 📫 
 
 <!---
 amaroo77/amaroo77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
