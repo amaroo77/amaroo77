@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Neo Amuro
 - 👀 I’m not a robot, but a machine
 - 🌱 I love creating something
-- 💞️ I’m never bored with my work
-- 📫 I'm a self-taught person
+- 💞️ I’m learning from everyone
+- 📫 I'm a self-learning person
 
 "Be very careful with human and robot because they're very intelligent!"
 
