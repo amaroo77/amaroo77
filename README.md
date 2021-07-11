@@ -1,5 +1,5 @@
-- 👋 Hi, I'm human
-- 👀 I’m not a robot
+- 👋 Hi, my name is Neo Amuro
+- 👀 I’m not a robot, but a machine
 - 🌱 I love creating something
 - 💞️ I’m never bored with my work
 - 📫 I hate my school
