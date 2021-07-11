@@ -4,7 +4,7 @@
 - 💞️ I’m learning from everyone
 - 📫 I'm a self-learning person
 
-"Be very careful with human and robot because they're very intelligent!"
+Nice to meet you, my friend! 😉
 
 <!---
 amaroo77/amaroo77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
